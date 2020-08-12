@@ -1,0 +1,18 @@
+// $ npm i @alan-ai/alan-sdk-web @material-ui/core classnames words-to-numbers
+//
+
+
+
+Live Site: https://voice.alan.app/JSMasteryNewsApp
+Alan AI: https://voice.alan.app/JSMastery1
+Alan GitHub: https://voice.alan.app/JSMasteryGithub
+
+📚
+ Materials/References:
+Promo Code: JSMASTERY (2500 free interactions!)
+Mentioned Materials (styles, info cards, links, images): https://gist.github.com/adrianhajdin/507b59bebcfdfc53e4b9394b2c6b9055
+GitHub Repository (feel free to give it a star 
+⭐
+)  https://github.com/adrianhajdin/project_news_alan_ai
+Alan Studio Project Code: https://gist.github.com/adrianhajdin/bab49eac7dcf9c095fce37ae1167dd87
+
